@@ -17,9 +17,10 @@ inquirer
       name: "story",
     },
     {
-      type: "input",
+      type: "checkbox",
       message: "What languages did you build with?",
       name: "languages",
+      choices: ["HTML", "JavaScript", "nodeJS", "CSS"]
     },
     {
       type: "list",
@@ -27,16 +28,7 @@ inquirer
       message: "What kind of license should your project have?",
       choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"],
     },
-    {
-      type: "input",
-      message: "What is the installation process?",
-      name: "installation",
-    },
-    {
-      type: "input",
-      message: "What are the testing instructions?",
-      name: "test",
-    },
+  
     {
       type: "input",
       message: "What is your email address?",

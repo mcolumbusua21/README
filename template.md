@@ -1,30 +1,74 @@
 
-# jaldskjf
+# Marks Project
+<img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></img>
 
 ## Description 
-asdfljklas
+All about Marks life
+
+## Table of Contents
+* [Installation](#installation)
+​
+* [Usage](#usage)
+
+* [Languages](#languages)
+​
+* [License](#license)
+
+* [Installation](#installation)
+
+* [Tests](#testing)
+
+* [Contact](#contact)
+
+* [GitHub](#GitHub)
+
+* [Link](#link)
+​
+* [Questions](#questions)
 
 ## Languages
-laksjdf;
+JavaScript, nodeJS
 
 ## License
-MIT
 
-## Installation 
-akljd
+
+```
+APACHE 2.0
+```
+
+## Installation
+​
+To install necessary dependencies, run the following command:
+​
+
+
+```
+npm i
+```
+
 
 ## Testing 
-lakjsdf
+To run tests, run the following command:
+​
+```
+npm test
+```
+
 
 ## Contact 
-lkasdjf
+mcolumbusua21@gmail.com
 
 ## GitHub
-lkasdjf
+mcolumbusua21
 
 ## Link 
-alsdkfj
+
 
 ## Usage 
-;aldjksf
+So whomever wants to learn about Mark
+
+## Questions
+​
+If you have any questions about the repo, open an issue or contact me directly at mcolumbusua21@gmail.com. You can find more of my work at mcolumbusua21.
+
 
