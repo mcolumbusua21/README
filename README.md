@@ -68,6 +68,9 @@ It allows others to generate a ReadMe if they needed help
 
 ## Video
 https://drive.google.com/file/d/1Pi4fk7VWv1VCV8g5yuH6lqYPl96yClLr/view
+
+![Screen Shot 2021-03-18 at 4 41 11 PM](https://user-images.githubusercontent.com/78819536/111711375-c6b81200-8808-11eb-8433-8abe76973651.png)
+
 ## Questions
 ​
 If you have any questions about the repo, open an issue or contact me directly at mcolumbusua21@gmail.com. You can find more of my work at github.com/mcolumbusua21.
