@@ -1,9 +1,9 @@
 
-# Marks Project
-<img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></img>
+# ReadMe Generator
+undefined
 
 ## Description 
-All about Marks life
+The purpose of this project was to create a ReadMe file that is easy to use. Others can copy this down and use this as their own.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -33,7 +33,7 @@ JavaScript, nodeJS
 
 
 ```
-APACHE 2.0
+None
 ```
 
 ## Installation
@@ -59,16 +59,16 @@ npm test
 mcolumbusua21@gmail.com
 
 ## GitHub
-mcolumbusua21
+github.com/mcolumbusua21
 
 ## Link 
-
+https://mcolumbusua21.github.io/README/
 
 ## Usage 
-So whomever wants to learn about Mark
+It allows others to generate a ReadMe if they needed help
 
 ## Questions
 ​
-If you have any questions about the repo, open an issue or contact me directly at mcolumbusua21@gmail.com. You can find more of my work at mcolumbusua21.
+If you have any questions about the repo, open an issue or contact me directly at mcolumbusua21@gmail.com. You can find more of my work at github.com/mcolumbusua21.
 
 
